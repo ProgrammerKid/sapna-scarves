@@ -1,0 +1,18 @@
+{
+  "slideshow": [
+    {
+      "price": {
+        "text": "$75.00",
+        "value": 75
+      },
+      "name": "Item Name Here",
+      "description": "Here is a brief description about this item",
+      "btn": {
+        "text": "Purchase Now",
+        "href": "/store/?item_id=310387"
+      }
+    },
+
+    {}
+  ]
+}
