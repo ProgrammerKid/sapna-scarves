@@ -1,9 +1,9 @@
 "use strict";
+
 let express = require("express");
 let app = express();
 let routes = require("./routes");
 const PORT = process.env.PORT || 3000;
-
 
 app.set("view engine", "ejs");
 
