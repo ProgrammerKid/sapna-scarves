@@ -1,0 +1,33 @@
+nav {
+    padding: 20px;
+    background-color: whitesmoke;
+    position: fixed;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+}
+
+.nav-branding {
+    display: inline;
+    font-size: 30px;
+    color: black;
+    vertical-align: middle;
+}
+
+.nav-branding a {
+    color: inherit;
+}
+
+.nav-branding img {
+    height: 30px;
+}
+
+.nav-menu {
+    display: inline;
+    vertical-align: middle;
+}
+
+
+
+.nav-item a {
+    color: black;
+}
